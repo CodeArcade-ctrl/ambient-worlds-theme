@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Ambient Worlds theme previews</title>
+  <desc id="desc">Three dashboard palette mockups: Coastal Light, Desert Observatory, and Midnight Library.</desc>
+  <defs>
+    <linearGradient id="coast" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e4f1ec"/><stop offset=".53" stop-color="#e4edf4"/><stop offset="1" stop-color="#f5ecdf"/></linearGradient>
+    <linearGradient id="desert" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5e4c9"/><stop offset=".53" stop-color="#f1e1d5"/><stop offset="1" stop-color="#e8e3e2"/></linearGradient>
+    <linearGradient id="library" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0e7d7"/><stop offset=".53" stop-color="#eae3df"/><stop offset="1" stop-color="#e3e0e9"/></linearGradient>
+  </defs>
+  <rect width="1200" height="460" rx="28" fill="#f5f6f7"/>
+  <g font-family="Arial,sans-serif">
+    <g transform="translate(24 24)">
+      <rect width="368" height="412" rx="22" fill="url(#coast)"/>
+      <circle cx="69" cy="54" r="82" fill="#7cbeae" opacity=".27"/>
+      <circle cx="310" cy="70" r="88" fill="#f2c691" opacity=".25"/>
+      <text x="28" y="48" font-size="14" font-weight="700" letter-spacing="2" fill="#397d84">COASTAL LIGHT</text>
+      <text x="28" y="112" font-size="30" font-weight="700" fill="#263b40">Sea glass &amp; sky</text>
+      <text x="28" y="143" font-size="16" fill="#587177">Cool breeze · sunlit sand</text>
+      <rect x="28" y="184" width="312" height="88" rx="18" fill="#fff" opacity=".78"/>
+      <rect x="28" y="292" width="148" height="86" rx="18" fill="#fff" opacity=".72"/>
+      <rect x="192" y="292" width="148" height="86" rx="18" fill="#fff" opacity=".72"/>
+      <circle cx="60" cy="218" r="10" fill="#65a99c"/><rect x="82" y="211" width="153" height="12" rx="6" fill="#397d84" opacity=".7"/><rect x="82" y="234" width="226" height="8" rx="4" fill="#587177" opacity=".35"/>
+      <text x="45" y="333" font-size="14" fill="#587177">LIGHT</text><text x="209" y="333" font-size="14" fill="#587177">DARK</text>
+    </g>
+    <g transform="translate(416 24)">
+      <rect width="368" height="412" rx="22" fill="url(#desert)"/>
+      <circle cx="72" cy="62" r="86" fill="#f0b568" opacity=".29"/>
+      <circle cx="310" cy="62" r="88" fill="#c17553" opacity=".2"/>
+      <text x="28" y="48" font-size="14" font-weight="700" letter-spacing="2" fill="#a65e43">DESERT OBSERVATORY</text>
+      <text x="28" y="112" font-size="30" font-weight="700" fill="#44342d">Golden sandstone</text>
+      <text x="28" y="143" font-size="16" fill="#766253">Warm horizon · indigo night</text>
+      <rect x="28" y="184" width="312" height="88" rx="18" fill="#fff" opacity=".8"/>
+      <rect x="28" y="292" width="148" height="86" rx="18" fill="#fff" opacity=".73"/>
+      <rect x="192" y="292" width="148" height="86" rx="18" fill="#fff" opacity=".73"/>
+      <circle cx="60" cy="218" r="10" fill="#d1a04f"/><rect x="82" y="211" width="153" height="12" rx="6" fill="#a65e43" opacity=".7"/><rect x="82" y="234" width="226" height="8" rx="4" fill="#766253" opacity=".35"/>
+      <text x="45" y="333" font-size="14" fill="#766253">LIGHT</text><text x="209" y="333" font-size="14" fill="#766253">DARK</text>
+    </g>
+    <g transform="translate(808 24)">
+      <rect width="368" height="412" rx="22" fill="url(#library)"/>
+      <circle cx="70" cy="60" r="84" fill="#cfab74" opacity=".23"/>
+      <circle cx="308" cy="64" r="88" fill="#91779e" opacity=".19"/>
+      <text x="28" y="48" font-size="14" font-weight="700" letter-spacing="2" fill="#725b83">MIDNIGHT LIBRARY</text>
+      <text x="28" y="112" font-size="30" font-weight="700" fill="#393239">A quieter chapter</text>
+      <text x="28" y="143" font-size="16" fill="#6c6264">Warm paper · ink-dark evening</text>
+      <rect x="28" y="184" width="312" height="88" rx="14" fill="#fff" opacity=".8"/>
+      <rect x="28" y="292" width="148" height="86" rx="14" fill="#fff" opacity=".74"/>
+      <rect x="192" y="292" width="148" height="86" rx="14" fill="#fff" opacity=".74"/>
+      <circle cx="60" cy="218" r="10" fill="#b88655"/><rect x="82" y="211" width="153" height="12" rx="6" fill="#725b83" opacity=".7"/><rect x="82" y="234" width="226" height="8" rx="4" fill="#6c6264" opacity=".35"/>
+      <text x="45" y="333" font-size="14" fill="#6c6264">LIGHT</text><text x="209" y="333" font-size="14" fill="#6c6264">DARK</text>
+    </g>
+  </g>
+</svg>
